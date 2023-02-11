@@ -32,5 +32,5 @@ build/
 ### VS Code ###
 .vscode/
 git.old/
-test-buildImage.sh
-Dockerfile
+test-buil-and-run-Image.sh
+###Dockerfile
