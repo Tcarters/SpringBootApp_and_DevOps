@@ -10,7 +10,9 @@
 	</parent>
 	<groupId>com.springIndocker</groupId>
 	<artifactId>springbootV3-docker</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<!-- <version>0.0.1-SNAPSHOT</version> -->
+	<!-- changing the version for nexus Integration -->
+	<version>1.0.0</version>
 	<name>springbootV3-docker</name>
 	<description>Mini devOps project for Spring Boot in Containers</description>
 	<properties>
