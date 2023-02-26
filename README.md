@@ -8,5 +8,5 @@
 
 ## Notice 
 ```diff
-+ The app is accessible at the page "/welcome"
++ The springApp is accessible at the page "/welcome" after launching your container ...
 ````
