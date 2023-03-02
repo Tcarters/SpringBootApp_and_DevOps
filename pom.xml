@@ -12,7 +12,7 @@
 	<artifactId>springbootV3-docker</artifactId>
 	<!-- <version>0.0.1-SNAPSHOT</version> -->
 	<!-- changing the version for nexus Integration -->
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>springbootV3-docker</name>
 	<description>Mini devOps project for Spring Boot in Containers</description>
 	<properties>
